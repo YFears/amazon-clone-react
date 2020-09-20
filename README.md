@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and available at [Amazon Clone App](https://clone-af183.web.app/)
 
 ## Available Scripts
 
