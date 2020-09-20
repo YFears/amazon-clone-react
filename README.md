@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and available at [Amazon Clone App](https://clone-af183.web.app/)
 
+Note:
+For Payment Functionality (Stripe) you need:
+ -gh repo clone YFears/amazon-clone-react (clone)
+ 1st Terminal src:amazon-clone-react (for FrontEnd)
+ -npm install
+ -npm start
+ 2nd Terminal src:amazon-clone-react/functions (for BackEnd)
+ -npm install
+ -firebase emulators:start
+ There you go
+
 ## Available Scripts
 
 In the project directory, you can run:
