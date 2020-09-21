@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Note:
 For Payment Functionality (Stripe) you need:<br />
- -gh repo clone YFears/amazon-clone-react (clone)<br />
+ -git clone https://github.com/YFears/amazon-clone-react.git<br />
  1st Terminal src:amazon-clone-react (for FrontEnd)<br />
  -npm install<br />
  -npm start<br />
